@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align="center">UnknownSec Bypass 403</h2>
 
-<!--
-**iqbalxploit/iqbalxploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Bypassed Imunify360
 
-Here are some ideas to get you started:
+PHP `7.4.3` LICENSE `MIT` VERSION `0.2`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bypassed
+----------
+* `403` Forbidden
+* `Imunify360`
+
+Preview
+-------
+
+![IMG](https://unknownsec1337.github.io/ganteng/img.jpg)
+
+Shell ini sedikit membantu bypass server `litespeed` dan shell ini menggunakan `bootstrap v.4` sehingga tampilan yang dihasilkan akan menyesuaikan dgn `platform` kamu.<br>Dan 100% ini tidak ada `loger`, tidak percaya? cek sendiri full `source` ko shellnya
+
+### Baka!!
+Shellnya error? hubungi email ku bre <a href="mailto:unknownsec1337@gmail.com">`unknownsec1337@gmail.com`</a>
